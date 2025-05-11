@@ -1,0 +1,12 @@
+../Core/Src/main.c:73:5:main	1
+../Core/Src/main.c:93:6:inic_sistema	1
+../Core/Src/main.c:98:6:stand_by	1
+../Core/Src/main.c:131:6:preenchendo	1
+../Core/Src/main.c:149:6:molho	3
+../Core/Src/main.c:168:6:lavagem	3
+../Core/Src/main.c:186:6:enxague	3
+../Core/Src/main.c:204:6:esvaziar	4
+../Core/Src/main.c:222:6:centrifugar	3
+../Core/Src/main.c:240:6:SystemClock_Config	3
+../Core/Src/main.c:277:13:MX_GPIO_Init	1
+../Core/Src/main.c:319:6:Error_Handler	1

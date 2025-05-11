@@ -1,0 +1,12 @@
+../Core/Src/main.c:73:5:main	24	static
+../Core/Src/main.c:93:6:inic_sistema	4	static
+../Core/Src/main.c:98:6:stand_by	8	static
+../Core/Src/main.c:131:6:preenchendo	8	static
+../Core/Src/main.c:149:6:molho	8	static
+../Core/Src/main.c:168:6:lavagem	8	static
+../Core/Src/main.c:186:6:enxague	8	static
+../Core/Src/main.c:204:6:esvaziar	8	static
+../Core/Src/main.c:222:6:centrifugar	8	static
+../Core/Src/main.c:240:6:SystemClock_Config	72	static
+../Core/Src/main.c:277:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:319:6:Error_Handler	4	static,ignoring_inline_asm
